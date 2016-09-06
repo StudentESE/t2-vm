@@ -1,4 +1,5 @@
 # Tessel 2 VM Tool
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/tessel/project/blob/master/CONDUCT.md)
 
 Command line tool to run a Tessel 2 VM for local testing.
 
@@ -30,6 +31,8 @@ t2-vm launch index.js --name Tessel-XXXXXXXXXX
 
 TODO: how to use binary builds! For some code to play with in the VM, clone https://github.com/tcr/stillframe, explode the archives, and load it into the VM. The run it from shell using `node` as usual.
 
-## License
+## Copyright and License
 
-MIT/ASL2
+Copyright 2016 Tessel
+
+Dual-licensed under the [Apache License, Version 2.0](./APACHE-LICENSE), and the [MIT License](./MIT-LICENSE).
